@@ -20,7 +20,7 @@ I have experience working on projects which includes building and training ML mo
 I am also a Full-stack web developer and primarily deal with technologies like ⚡***react.js***, ***node.js*** , ***django*** , ***flask*** , ***mongodb*** .
 
 - 🔭 I’m currently working on Fullstack Web Development, Machine Learning models.
-- 👯 I’m looking to collaborate with Fullstack Web and ML Developers or in other interesting projects.
+- 👯 I’m looking to collaborate with Fullstack Web and ML Developers or in data science projects or other interesting projects in general.
 - 🤔 I’m always ready for Open source Contribution.
 - 💬 possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
 - reach out to me on ***crosstorent@gmail.com*** .
