@@ -67,10 +67,6 @@ I am also a Full-stack web developer and primarily deal with technologies like â
 <a href="https://www.linkedin.com/in/sujoy-nath-c0mrd/">
   <img align="left" alt="Dans's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
-  
-<a href="https://leetcode.com/C0mRD/">
-  <img align="left" alt="leetcode" width="22px" src="https://tse2.mm.bing.net/th?id=OIP.5sfi252DgFWnuwUNHhwlXwAAAA&pid=Api&P=0" />
-</a>
 
 [![](https://img.shields.io/badge/-ðŸŒˆ%20Website-FFF)](https://sujoynath.me)
 <br/> </br>
