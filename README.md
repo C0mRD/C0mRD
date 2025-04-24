@@ -1,55 +1,52 @@
 <h1 align="center"> 
-Hi there, I'm Sujoy Nath <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+Hi there, I'm Sujoy Nath 
+<!--   <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> -->
 </h1>
 
-<h4 align="center">A Software Developer & Data Scientist from India</h4>
+<h4 align="center">Machine Learning Engineer & AI Researcher from India</h4>
 
 <div align="center">
   
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/c0mrd)
 [![GitHub followers](https://img.shields.io/github/followers/c0mrd.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/c0mrd?tab=followers)
-[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://sujoynath.me)
+[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://sujoynath.in)
 
 </div>
 
 ### About me ✍️ :
 
-Hello there! My name is Sujoy Nath, and I am a Software developer with an interest in Data science and Computer vision. Preferred pronouns: He/Him/His 👦🏻.
+I'm currently working under Dr. Swagatam Das at Indian Statistical Institute (ISI) focusing on Large Language Models. I am also connected with multiple startups as ML Engineer, where I built Deep Learning model pipelines from scratch.
 
-I have experience working on projects which includes building and training ML models for tasks such as image classification and natural language processing. I also interned at a startup where I developed a computer vision system specifically designed for surveillance in areas with high rates of crime.
-I am also a Full-stack web developer and primarily deal with technologies like ⚡***react.js***, ***node.js*** , ***django*** , ***flask*** , ***mongodb*** .
+My research has been published in top-tier conferences, including <b>AAAI</b> and <b>IJCNN</b>, focusing on trustworthy AI and medical applications of large language models.
 
-- 🔭 I’m currently working on Fullstack Web Development, Machine Learning models.
-- 👯 I’m looking to collaborate with Fullstack Web and ML Developers or in data science projects or other interesting projects in general.
-- 🤔 I’m always ready for Open source Contribution.
-- 💬 possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS.
-- reach out to me on ***crosstorent@gmail.com*** .
+- 🔭 I'm currently working on LLM applications, hallucination detection and mitigation, and medical report generation
+- 🧠 My research interests include Trustworthy AI, Explainable AI, Generative AI, and Multimodality
+- 👯 I'm looking to collaborate on AI research projects, especially those involving LLMs and computer vision
+- 💬 I have expertise in Python, PyTorch, TensorFlow, LLM fine-tuning, Quantization, Evaluation, Inference-Time Scaling and prompt engineering
+- 📫 Reach me at: **sujoynathofficial@gmail.com**
 
 <details open>
 <summary>
   <h3> Languages and Tools🛠: </h3>
 </summary>
 <code>Python</code>
-<code>C++</code>
-<code>javaScript</code>
-<code>Html</code>
-<code>css</code>
+<code>C</code>
+<code>SQL</code>
+<code>PyTorch</code>
+<code>TensorFlow</code>
   <br/> </br>
-<code>Nodejs</code>
-<code>Reactjs</code>
-<code>django</code>
-<code>flask</code>
-<code>Bootstrap</code>
-<code>Tailwind Css</code>
+<code>OpenCV</code>
+<code>Unsloth</code>
+<code>Numba</code>
+<code>FastAPI</code>
+<code>Docker</code>
   </br> </br>
-<code>Power BI</code>
-<code>Excel</code>
-<code>R</code>
 <code>Pandas</code>
 <code>Numpy</code>
 <code>Matplotlib</code>
+<code>LLM Fine-tuning</code>
+<code>Prompt Engineering</code>
   </br> </br>
-<code>firebase</code>
 <code>MongoDB</code>
 <code>MySql</code>
 
@@ -60,22 +57,31 @@ I am also a Full-stack web developer and primarily deal with technologies like �
     <h3> Connect with me 🤝 :</h3>
   </summary>
   
-  <a href="https://github.com/c0mrd">
-  <img align="left" alt="Dans's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="https://github.com/c0mrd" target="_blank">
+  <img align="left" alt="Sujoy's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/sujoy-nath-c0mrd/">
-  <img align="left" alt="Dans's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+<a href="https://www.linkedin.com/in/sujoy-nath-c0mrd/" target="_blank">
+  <img align="left" alt="Sujoy's LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
-[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://sujoynath.me)
+<a href="https://scholar.google.com/citations?user=OhzlAyUAAAAJ&hl=en" target="_blank">
+  <img align="left" alt="Sujoy's Google Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" />
+</a>
+
+[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://sujoynath.in)
 <br/> </br>
 
 </details>
 
-<!---<a href="https://sujoynath.me">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mrd&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>-->
+### Research Publications 📚:
 
+- **From Complexity to Clarity: Transforming Chest X-ray Reports with Chained Prompting** - AAAI 2025 Student Abstract | [Paper Link](https://doi.org/10.1609/aaai.v39i28.35281)
+- **HalluShift: Measuring Distribution Shifts towards Hallucination Detection in LLMs** - IJCNN 2025 | [Paper Link](https://arxiv.org/abs/2504.09482)
+
+### Achievements 🏆:
+
+- Parayas 2k24: National Level Project Competition - 2nd position (Team Lead)
+- Kavach 2023: National Cybersecurity Hackathon - Top 5 finalist (Team Lead)
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/c0mrd?tab=repositories)!
